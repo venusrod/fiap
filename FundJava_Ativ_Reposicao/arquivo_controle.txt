@@ -1,0 +1,10 @@
+2017-08-27 10:38;Mensagem Codificada;3;arquivo.txt;5;
+2017-08-27 10:49;Mensagem Decodificada;3;arquivo.txt;5;
+2017-08-27 10:53;Mensagem Decodificada;3;arquivo.txt;5;
+2017-08-27 10:54;Mensagem Decodificada;3;arquivo.txt;5;
+2017-08-27 10:54;Mensagem Decodificada;3;arquivo.txt;5;
+2017-08-27 10:57;Mensagem Codificada;84;arquivo2.txt;86;
+2017-08-27 10:58;Mensagem Decodificada;84;arquivo2.txt;86;
+2017-08-27 12:31;Mensagem Codificada;34;arquivo.txt;36;
+
+2017-08-27 02:59;Mensagem Decodificada;34;arquivo.txt;36;
